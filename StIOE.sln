@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StIOE", "StIOE.vcxproj", "{ACAA254D-B0C5-4128-9885-EEEBF7FC675C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAA254D-B0C5-4128-9885-EEEBF7FC675C}.Debug|x64.ActiveCfg = Debug|x64
+		{ACAA254D-B0C5-4128-9885-EEEBF7FC675C}.Debug|x64.Build.0 = Debug|x64
+		{ACAA254D-B0C5-4128-9885-EEEBF7FC675C}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACAA254D-B0C5-4128-9885-EEEBF7FC675C}.Debug|x86.Build.0 = Debug|Win32
+		{ACAA254D-B0C5-4128-9885-EEEBF7FC675C}.Release|x64.ActiveCfg = Release|x64
+		{ACAA254D-B0C5-4128-9885-EEEBF7FC675C}.Release|x64.Build.0 = Release|x64
+		{ACAA254D-B0C5-4128-9885-EEEBF7FC675C}.Release|x86.ActiveCfg = Release|Win32
+		{ACAA254D-B0C5-4128-9885-EEEBF7FC675C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0FD95FC-BDB5-433E-86E9-DD01F3A6C150}
+	EndGlobalSection
+EndGlobal
